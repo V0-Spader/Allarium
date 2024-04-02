@@ -1,0 +1,69 @@
+ 
+
+FullStack Discord Clone Proposal
+
+03.26.2024
+
+Travis Schaak
+
+
+Specifications:
+-Next.js
+-React
+-Socket.io
+-Prisma
+-Tailwind
+-MySQL
+-Front or Back of House??
+-FULL STACK!
+
+Website or App??
+-This project will result in a Mobile app and Computer Application. 
+
+
+What’s the Point?
+-Creating spaces where people can find belonging. It’s a voice, video, and text communication service used by over a hundred million people to hang out, talk with friends, and connect with communities.
+
+Demographic?
+-It will be geared for the online Gamers and TTRPG communities. 
+
+What API will we be using?
+-I'll be attempting to create my own internal systems. 
+
+
+Milestones/ Steps:
+1. ENV setup
+2. Folder setup
+3. Autherntication
+4. Prisma and planetscale setup
+5. Initial modal UI
+6. uploadingThings Setup
+7. Server Creation API
+8. Nav Sidebar
+9. Create Server Modal
+10. Server Sidebar
+11. Invitations
+12. Server Settings
+13. Manage Members
+14. Channel Creations
+15. Delete and Leave Server Modal
+16. Search Server modal
+17. Server Channels List
+18. Edit Channels
+19. Channel ID page
+20. Chat Header
+21. Prisma Schema Completion
+22. Conversation setup
+23. Socket IO setup
+24. Chat Input Component 
+25. Messages API
+26. Message Attachment
+27. Emoji bar
+28. Chat Messages Component
+29. Chat Item Component
+30. Delete Messages
+31. Chat Socket hook
+32. Chat scroll Hook
+33. Direct Message
+34. Video chat
+35. Deployment
