@@ -14,6 +14,7 @@ Specifications:
 -Prisma
 -Tailwind
 -Postgresql
+
 -Front or Back of House??
 -FULL STACK!
 
