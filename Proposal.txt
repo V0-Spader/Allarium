@@ -13,7 +13,7 @@ Specifications:
 -Socket.io
 -Prisma
 -Tailwind
--MySQL
+-Postgresql
 -Front or Back of House??
 -FULL STACK!
 
