@@ -7,7 +7,7 @@ import { useForm } from "react-hook-form";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { useEffect, useState } from "react";
-import { FileUpload } from "@/components/file.upload";
+import { FileUpload } from "@/components/file-upload";
 import { useRouter } from "next/navigation";
 
 import {

@@ -41,7 +41,7 @@ export const ServerHeader = ({
                          dark:text-neutral-400 space-y-[2px]">
                     {isModerator && (
                         <DropdownMenuItem 
-                            onClick={() => onOpen("Invite", {server})}
+                            onClick={() => onOpen("invite", {server})}
                             className="text-indigo-600
                              dark:text-indigo-400 px-3 py-2 text-sm cursor-pointer">
                             Invite People
